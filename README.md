@@ -21,3 +21,8 @@ Once the environment is set up, the next step involves retrieving the current we
 The retrieved weather data is then preprocessed by converting the temperature from Kelvin to Celsius and extracting the relevant data points, such as temperature, humidity, and wind speed. This preprocessing step is crucial for ensuring that the data is in a suitable format for visualization and analysis.
 
 Finally, the preprocessed data is visualized using Streamlit, which provides an interactive and user-friendly interface for exploring the weather data. The visualization includes various charts and graphs that display the temperature, humidity, and wind speed over time, providing a clear and concise overview of the weather forecast.**
+
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/93312689-6bc6-426f-9eb4-579b9569c698)
