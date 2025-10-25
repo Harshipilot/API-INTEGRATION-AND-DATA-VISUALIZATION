@@ -10,8 +10,7 @@
 This single-file app embeds an interactive HTML/JS experience that reacts to clicks/touches and reveals heartfelt messages about friendship, love, closeness and achievements. Customize the MESSAGES list to change the texts. """
 
 import streamlit as st 
-import random from textwrap
- import dedent
+import random from textwrap import dedent
 
 st.set_page_config(page_title="Friendship Surprise", page_icon="💖", layout="wide")
 
